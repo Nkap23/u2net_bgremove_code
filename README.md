@@ -10,6 +10,6 @@ Link to [tutorial]
 
 [Github Repository](https://github.com/Nkap23/background_removal_DL) Containing Required Files.
 
-Original [U-2-Net Repository](https://github.com/NathanUA/U-2-Net)
+Original [U-2-Net Repository](https://github.com/NathanUA/U-2-Net).
 
 
