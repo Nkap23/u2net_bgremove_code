@@ -6,7 +6,7 @@ Jupyter Notebook containing code for Image &amp; Video background removal using 
   <br>
 </p>
 
-Link to [tutorial](https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning)
+Link to [tutorial](https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning).
 
 [Github Repository](https://github.com/Nkap23/background_removal_DL) Containing Required Files.
 
