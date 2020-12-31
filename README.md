@@ -6,4 +6,10 @@ Jupyter Notebook containing code for Image &amp; Video background removal using 
   <br>
 </p>
 
+Link to [tutorial]
+
+[Github Repository](https://github.com/Nkap23/background_removal_DL) Containing Required Files.
+
+Original [U-2-Net Repository](https://github.com/NathanUA/U-2-Net)
+
 
